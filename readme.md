@@ -1,5 +1,5 @@
 
-# Bookmark API
+# JS Interview Questions
 
 Some questions and concepts coded in javascript for interviews.
 
