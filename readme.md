@@ -34,3 +34,6 @@ Some questions and concepts coded in javascript for interviews.
 # Bugs or improvements
 Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
 
+# Some more conceptual weird questions
+https://playcode.io/conceptualquestion
+
